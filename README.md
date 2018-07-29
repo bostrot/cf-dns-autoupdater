@@ -21,7 +21,8 @@ var ids = [{
 }, {
     "zone": "",
     "id": ""
-}, ];```
+}, ];
+```
 
 Then if you want/have it you can add it to autostart. Edit the `dnsupdater.service` to contain both your directory path and the path of updater.js. Now just enable autostart:
 
