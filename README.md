@@ -35,3 +35,7 @@ Start it:
 And check whether it through any errors:
 
 `sudo systemctl status dnsupdater.service`
+
+# Cloudflare API
+
+This uses the Cloudflare API v4 https://api.cloudflare.com/ to change DNS settings for multiple domains.
