@@ -1,0 +1,24 @@
+{
+  "name": "cf-dns-autoupdater",
+  "version": "1.0.0",
+  "description": "Automatic DNS updater for Cloudflare written in NodeJS.",
+  "main": "updater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bostrot/cf-dns-autoupdater.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "dns",
+    "updater"
+  ],
+  "author": "bostrot <me@bostrot.pro>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bostrot/cf-dns-autoupdater/issues"
+  },
+  "homepage": "https://github.com/bostrot/cf-dns-autoupdater#readme"
+}
