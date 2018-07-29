@@ -7,20 +7,21 @@ Update updater.js and add your Cloudflare API key and email. Then you can either
 
 updater.js:
 
-```var auth_key = "YOUR_API_KEY";
+```
+var auth_key = "YOUR_API_KEY";
 var email = "YOUR_EMAIL";
 var checkDuration = 5; // In minutes
 var listZones = false; // Get zones and their dns record ids
 
 var ids = [{
-    "zone": "",
-    "id": ""
+    "zone": "YOUR_ZONE_ID",
+    "id": "YOUR_DNS_RECORD_ID"
 }, {
-    "zone": "",
-    "id": ""
+    "zone": "YOUR_ZONE_ID",
+    "id": "YOUR_DNS_RECORD_ID"
 }, {
-    "zone": "",
-    "id": ""
+    "zone": "YOUR_ZONE_ID",
+    "id": "YOUR_DNS_RECORD_ID"
 }, ];
 ```
 
