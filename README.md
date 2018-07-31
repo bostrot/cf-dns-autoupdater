@@ -1,4 +1,4 @@
-# cf-dns-autoupdater
+# [cf-dns-autoupdater](https://github.com/bostrot/cf-dns-autoupdater)
 Automatic DNS updater for Cloudflare written in NodeJS. This simple script updates the DNS records of your Cloudflare Domains every now and then. It can be used with multiple domains.
 
 # Usage
