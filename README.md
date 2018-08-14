@@ -40,3 +40,13 @@ And check whether it through any errors:
 # Cloudflare API
 
 This uses the Cloudflare API v4 https://api.cloudflare.com/ to change DNS settings for multiple domains.
+
+## Help
+
+You are welcome to contribute with pull requests, bug reports, ideas and donations.
+
+Bitcoin: [1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM](https://www.blockchain.com/btc/payment_request?address=1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM&currency=USD&nosavecurrency=true&message=Bostrot)
+
+PayPal: [paypal.me/bostrot](https://paypal.me/bostrot)
+
+Hosting: [2.50$ VPS at VULTR](https://www.vultr.com/?ref=7505919)
