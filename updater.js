@@ -1,7 +1,7 @@
 var https = require('https');
 
-var auth_key = "b0aa256413f8181bf796f28ff67d004a78f45";
-var email = "eric.trenkel@gmail.com";
+var auth_key = "APIKEY";
+var email = "EMAIL";
 var checkDuration = 5; // In minutes
 var listZones = false; // Get zones and their dns record ids
 
