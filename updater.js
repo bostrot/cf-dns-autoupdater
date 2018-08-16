@@ -1,22 +1,19 @@
 var https = require('https');
 
-var auth_key = "APIKEY";
-var email = "EMAIL";
+var auth_key = "YOUR_API_KEY";
+var email = "YOUR_EMAIL";
 var checkDuration = 5; // In minutes
 var listZones = false; // Get zones and their dns record ids
 
 var ids = [{
-    "zone": "1be9d9c8480b00a37fd617cc6154ba41",
-    "id": "dcf319ee90108b224d6c855bb90f9965",
-    "proxy": false,
+    "zone": "YOUR_ZONE_ID",
+    "id": "YOUR_DNS_RECORD_ID"
 }, {
-    "zone": "d3a5249bb49aa0e3c770b58a1737507b",
-    "id": "ba1ae9659229da63170bd015e07a29ec",
-    "proxy": true,
+    "zone": "YOUR_ZONE_ID",
+    "id": "YOUR_DNS_RECORD_ID"
 }, {
-    "zone": "3cf13da0c52de94317ffa3d6d0c66b5f",
-    "id": "54d70873993b0570789153caf6fd187c",
-    "proxy": true,
+    "zone": "YOUR_ZONE_ID",
+    "id": "YOUR_DNS_RECORD_ID"
 }, ];
 
 var tempIP;
